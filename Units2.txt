@@ -1,0 +1,62 @@
+Structures
+Offensive Structures
+
+Metal Marine Hangar
+
+Large hangars that can house Metal Marines. If the player's base is attacked by enemy Metal Marines, your Metal Marines in the hangars will engage them as long as they are in range. If the Metal Marine inside the hangar is destroyed, the player can build another one using the "Build Up" icon (PC version only). It's also possible to upgrade the Metal Marines using "Build Up" icon. Their color will change to Silver from Gold.
+
+In SNES version, you cannot rebuild destroyed Metal Marines in hangars. You must bulldoze the empty hangar and rebuild the Metal Marine.
+
+Surface-to-Surface Missile Battery
+
+Missile launchers designed to attack the enemy's island. They are powerful enough to destroy most structures excluding bases and Gun-Pods. However missiles are rather easy to shoot down with interceptor missile systems and missile launchers are very easy to destroy and completely defenseless. They can be upgraded to launch two missile at one time. They damage to all units in a 3x3 square radius.
+
+ICBM Silo
+
+An gigantic silo housing one of the doomsday weapons that turned the Earth what it is now. This building is a large structure which requires 3x3 building space. It takes a long time and enormous resources to build. Also, if even one of its parts are destroyed during the enemy attack, the player must build it again from scratch. After it's completed the player will also need a large amount of fuel to attack enemy's island.
+
+When the player finally attacks however, this missile will destroy everything in its blast radius except bases. It's impossible to shoot it down with interceptor missiles and the player's only chance of stopping it is to destroy it before construction is finished.
+Defensive Structures
+
+Interceptor Missile Battery
+
+Those anti-air missiles are your only chances of defending an island from enemy missile strikes and air landings. While they can destroy enemy missiles in one shot, a few shots are required to shoot down the enemy dropships. Their accuracy is determined with their range to target and how many AA Radar systems the player has. They can be upgraded to launch two missiles at one time, which increases their damage. Interceptor missiles don't need any energy to attack and they are completely defenseless except enemy missile attacks.
+
+Gun Pod
+
+Defense pillboxes armed with cannons and machine guns to defend the base from attacking Metal Marines. They are cheap and easy to produce. Although their firepower and range is rather weak, their defenses are good against missiles and especially enemy Metal Marines.
+
+Interceptor Anti-Air Radar
+
+Each of these radar installations will increase the hit rate of the player's interceptor missiles by 5%.
+
+Mine field
+
+Anti-Tank mines buried to the ground will damage any Metal Marine that walks on them. Although their firepower is weak, they cannot be spotted by enemy units, including missiles or dropships.
+
+Decoy Base
+
+A fake structure that looks like a base. It can be used to fool the enemy. Although it's not as tough as real bases and cannot stand an ICBM, it is still durable and can hold several hits, especially missile attacks. In single player games, computer uses more decoy bases as the game progresses.
+
+Camouflage Structure
+
+Those fake civilian structures can be built on any clear terrain, base or decoy base to hide them from the enemy. Since the enemy must first destroy it to reach the player's base, it can also be considered an additional armor for bases.
+
+Although they can fool the enemy, a civilian structure in the middle of an enemy base will surely draw attention.
+Logistics & Support Structures
+
+Base
+
+The command and control center. The player can place three of those to their island. If all three are destroyed, the player will fail the mission. Victory will result if the player destroys the enemy's three bases. Although they are durable and can withstand to ICBM attacks, they are defenceless. Bases do not require any money or fuel to construct. Metal Marines are especially effective against bases while missiles do moderate damage.
+
+War Administration Headquarters
+
+These administration buildings will give extra credits for every 2 seconds they stand. Normally the player will gain $1 for every couple of seconds regardless of the situation. Increasing those buildings will in return increase the player's fund accumulation. Unfortunately they are weak and defenceless. And it's rather hard to build this kind of structures while focusing on attack and defence. This building has only moderate protection against enemy missile attacks.
+
+Energy Plant
+
+These energy plants house the rocket fuel required for missile attacks and transports. Normally, just like money, the player will gain 1 energy point in every 2 seconds. Increasing the number of this structure will increase the player's fuel accumulation. Another important fact is that since these buildings hold additional fuel for missiles, increasing the number of Energy Plants will also greatly reduce the time required for missiles to reload. They have moderate protection against missile attacks.
+
+Factory
+
+Every thing the player constructs on their island requires a certain amount of time to be completed. Building more of these buildings will decrease the time required to construct and upgrade the player's weapons & equipment. They have moderate defence against missile attacks just like the Energy Plant and Administration Headquarters. 

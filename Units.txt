@@ -1,0 +1,725 @@
+
+
+                      SeanKelson's Metal Marines Walkthrough
+                               SeanKelson@aol.com
+
+Table Of Contents
+1---Introduction
+2---Commands
+    A. Building List
+    B. Attacking
+3---Battle Strategies
+4---Tips & Tricks
+5---Missions
+6---Other Information
+    A. Contact Information
+	B. Licensing
+	C. Credits
+
+
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+                             Section 1: Introduction
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+
+    This walkthrough is over the Super Nintendo game called Metal Marines.  The
+game is a strategy game where you play a general in a millitant faction of
+colonial people.  You go around the world, battling different people and
+expanding your empire.
+Your battlefields consist of two islands, one for you and one for your
+rival.
+You will build different buildings on your island and launch attacks in an
+attempt to destroy the opponent's headquarters.  After the headquarters is
+destroyed, you can move onto the next mission.
+    This walkthrough does not go too in-depth into the missions.  Instead, this
+walkthrough tends to focus more on the general strategies that will help you
+through the entire game.
+
+
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+                            Section 2: Commands
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+
+    On the left side of the screen as you are playing Metal Marieners, there are
+four columns (two visible) of commands you have.  The commands range from
+leveling rubble so you can build on the ground again, attacking the enemy, or
+building an air radar.
+
+
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+                                A: Commands List
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+    Here is the list of the commands you can use, what they do, and how much
+they cost:  (Listed from command list as top to bottom, left to right)
+
+          Item:  Missile
+        Cost: $10
+        Cost to Upgrade: $40
+        Description: A missile will hold a missle you can use during an attack.
+                     After you attack, a new missile will be built after a litte
+                     bit of time.  Missles will also be used to attack you.
+
+          Item: AAMissile (Anti-Aircraft Missile)
+        Cost: $15
+        Cost to Upgrade: $50
+        Description: A. A. Missiles will shoot down enemy missiles and have
+                     potential to shoot down transport planes with Metal
+                     Marines in them, so as long as the missiles hit their
+                     target.
+
+          Item: M.Marine (Metal Marine)
+        Cost: $20
+        Cost to Upgrade: $45
+        Description: Metal Marines will defend against landing enemy Metal
+                     Marines, or can be used to attack the enemy.
+
+          Item: Gun Pod
+        Cost: $10
+        Description: Gun Pods will shoot enemy Metal Marines when they land.
+
+          Item: Lnd-Mine (Land Mines)
+        Cost: $10
+        Description: Land Mines will destroy enemy Metal Marines that walk over
+                     them.
+
+          Item: AA-Radar (Anti-Aircraft Radar)
+        Cost: $50
+        Description: Anti-Aircaft Radars increase the accuracy of your A. A.
+                     Missiles.
+
+          Item: I.C.B.M.
+        Cost: $255
+        Description: I.C.B.M.'s are large buildings that take up a 3 by 3
+                     square.  I.C.B.M.'s are missiles that can be used in
+                     attacks.  These types of missiles cannot be shot down by
+                     enemy A. A. Missiles, but of course, you can't shoot the
+                     enemy's down either.
+
+          Item: Supply-HQ
+        Cost: $75
+        Description: Supply Headquarters increase your money.  Your War Funds
+                     increase by 1 + the number of Supply Headquarters per
+                     second of gameplay.
+
+          Item: Eng-Plant
+        Cost: $50
+        Description: Energy Plants increase your energy.  Your Total Energy
+                     increases by 1 + the number of Energy Plants you have
+                     per second of gameplay.
+
+          Item: Factory
+        Cost: $100
+        Description: Factories decrease the time it takes to build buildings.
+
+          Item: DummyBase
+        Cost: $30
+        Description: Dummy Bases look like real bases, so the enemy will target
+                     them if he finds one.  The enemy will waste attack strength
+                     attempting to destroy the base.
+
+          Item: DummyUnit
+        Cost: $10
+        Description: A Dummy Unit appears to the enemy like it may be a location
+                     of a Base.  The enemy will send missles to the Dummy Unit
+                     to try to uncover a hidden base.
+
+          Item: Grid-Mode
+        Description: This triggers the grid on the map on and off.
+
+          Item: Unit Data
+        Description: This will show you your base.  You'll be able to get hit
+                     points or similar information from the map you'll see when
+                     you use the Unit Data.
+
+          Item: Unit Del
+        Description: This lets you select a building to demolish inside your
+                     base.
+
+          Item: Attack
+        Description: This command allows you to launch an attack on the enemy's
+                     island.
+
+          Item: Leveling
+        Cost: $5
+        Description: This lets you fix war-torn ground and make it so you can
+                     build on it.
+
+          Item: Radio SW
+        Description: This lets you choose if you wish to recieve messages from
+                     the enemy.
+
+          Item: M.M's Arm
+        Description: This lets you choose the gun of each of your Metal
+                     Marines.
+
+          Item: Build Up
+        Cost: See individual buildings.
+        Description: This lets you upgrade buildings to be stronger.
+
+
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+                                  B: Attacking
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+    When you attack, you can send up to four missiles and up to three Metal
+Marines.  First, select missiles from your base.  You want to select the ones
+closer to the right side of the map, as ones farther into your base will use
+more energy to fly farther.  Then, you select targets for the missiles.  As you
+do this, keep in mind that A. A. Missiles will shoot you down if you aim too far
+into (to the right) of their base.  It will also use more energy.
+    Then, select what Metal Marines will fly off.  Choose the area they will
+fall into (a 6x6 square).  After all this is done, you can commence the attack.
+Your missiles will launch into their base.  Following, a ship of your Metal
+Marines will take off and land at your selected drop point.  Now you can choose
+locations in the 6x6 square for your Metal Marines to start the battle in.  Try
+choosing areas farther away from clusters of Gun Pods.  The battle will last a
+maximum of 60 seconds, though it is likely that it will not go that long.  Your
+Metal Marines will automatically attack, though you can propose targets to them
+with the aimer.  Once all of the enemy's buildings or all of your Metal Marines
+in the 6x6 square are gone, the battle ends.
+    Though it's fun attacking, it's important to remember that the enemy can
+also attack you.  When the enemy attacks you, they will launch missiles and
+Metal Marines at you.  And, you will have to defend yourself.
+    By having Metal Marines destroy the enemy's base, you will win the scenario
+and proceed to the next harder scenario.  Since all the scenarios don't have
+many unique strategies pertaining to them, I do not go into in-depth strategies
+for each mission.  Instead, I just give you general strategies to use.
+
+
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+                          Section 3: Battle Strategies
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+
+    The most important part of Metal Marines is to carefully place your limited
+number of buildings.  By placing your buildings, you have potential to attack
+the enemy and intercept their attacks.  Below are several unique strategies you
+can use to place your buildings.
+
+          Strategy #1: Anti-Ballistic
+
+    This strategy involves mostly AA Radars and AA Missiles.  To play this
+strategy, you want to put several AA Missiles and a few Gun Pods one the right
+side of your base (the side that's closest to the enemy's base).  Place AA
+Radars at least six squares behind the AA Missiles.  Put some Gun Pods in the
+row with the AA Radars as well.  About every third square in the column in
+between the AA Missiles and Radars, place a Metal Marine.  Your defense should
+look something like the following:  (R=Radar, A=AA Missile, G=Gun Pod, M=Metal
+Marine, -=Nothing)
+--------G
+R---M---A
+G-------A
+R---M---G
+G-------A
+R---M---A
+--------G
+    The idea behind this strategy is that your front line will shoot down any
+missiles that come close to the base, and might actually shoot down some
+transport planes of Metal Marines.  The Gun Pods and Metal Marines can destroy
+any enemy Metal Marines that land and attempt to destroy your aircraft barrier.
+There still is a chance that a missile might come and land on the shore without
+being hit by your missiles.  For safety, you probably want your defense to start
+two squares from the shore, as missiles can land there without much problem.
+
+          Strategy #2: Elite Building Team
+
+    This strategy is designed to construct buildings very fast.  Begin the game
+by building a Supply Headquarters in the back of your base.  Build a Factory buy
+the Supply Headquarters, then place some Gun Pods and Metal Marines by the two
+buildings (which should be on the left side of your base, away from the enemy's
+base).  Now you can start defending the front of the base.  The back of your
+base should look something like this:  (G=Gun Pod, M=Metal Marine, $=Supply
+Headquarters, F=Factory, -=Nothing)
+-M-
+$-G
+F-G
+-M-
+    The idea behind this strategy is to provide yourself with increased war
+funds (from the Supply Headquarters) and the ability to quickly construct
+buildings (from the Factory).  Though it's a rather expensive start and it
+doesn't immediately defend your base, it provides the resources you need to
+rapidly set up a front line of defenses, as well as provides a safe place in the
+back for you to put important buildings.
+
+          Strategy #3: Targeted Clusters
+
+    To start this strategy, you'll want to build two Dummy Bases.  One should be
+placed in a middle column near the top of your base, and the other should be
+placed in a middle column at the bottom of your base.  Defend these bases with
+AA Missles, AA Radars, Gun Pods, and Metal Marines.  Each cluster around the
+Dummy Base should look as follows:  (G=Gun Pod, M-Metal Marine, R=Rader, A=AA
+Missile, %=Dummy Base, -=Nothing)
+-M---
+GRAG-
+-A%AM
+GRAG-
+-M---
+    This strategy creates two targets for the enemy that appear to be well
+defended bases.  The enemy will target these.  Not only will the defenses
+counter most of the attacks, they will also provide some general defense for
+whatever other buildings you have.  This strategy takes time to start.  I do not
+recommend commencing construction on the clusters until you have some general
+defenses on the buildings in your base.
+
+          Strategy #4: Surprise Attack
+
+    This strategy is designed to buy you more time to build up your base.  If
+you start with any missiles or Metal Marines, immediately send them over to the
+enemies base as soon as the game starts.  By attacing the enemy's base at the
+beginning of the game, you will get yourself an opportunity to build up as the
+enemy rebuilds.  If you use the Surprise Attack strategy, you probably want to
+launch another attack as soon as your missiles rebuild.  This way, you pummel
+the enemy with a series of attacks, buying you time to build up your defenses.
+
+          Strategy #5: Sudden Death
+
+    Begin the game with a Surprise Attack, as above.  But, instead of building
+defense buildings, build missiles and Metal Marines.  That way, you are able to
+pummel the enemy with a series of very constant attacks.  Devote all of your
+funds to Missiles and Metal Marines.  Also spend monsey on upgrading these.
+With all the buildings you have constructed, you will have the ability to send a
+constant flow of attacks over to the enemy.
+    The hope behind this barbaric approach to the game is that the enemy's
+Missiles and Metal Marines will get destroyed.  This way, they will not be able
+to attack you.
+
+          Strategy #6: Doomsday Device
+
+Initially, build a Supply Headquarters.  Build several AA Missiles, Gun
+Pods,
+and Metal Marines to defend your base.  Once you feel your base is safe,
+construct two more Supply Headquarters.  Now your War Funds should be increasing
+at a rate of at least $4 a second.  Build an Energy Plant.  Then, use your
+money,
+which will accumulate very fast, to build an I.C.B.M.  As the I.C.B.M. is being
+constructed, send your Metal Marines, one at a time, over to the enemy's base to
+find where the largets cluster of buildings is.  Launch an I.C.B.M. at this
+large cluster and BOOM!
+    The idea behind this is that the Base of the enemy is in this large cluster.
+The I.C.B.M. will lay waste to anything it hits.  You'll be able to send over a
+few Metal Marines and blow the base away.
+
+          Strategy #7: Double Missiles
+
+    At the beginning, build a few Metal Marines and a few AA Missiles.  Build
+Missiles by these defenses.  Immediately upgrade your missles to double missles
+and attack the enemy's island constantly.  Keep attacking the enemy's island,
+and build buildings on your island between raids.
+    The idea of this strategy is that the enemy will never be able to build up
+their air defense.  You can send Metal Marines over after your pummel of
+missiles and quickly abolish their base.
+
+
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+                            Section 4: Tips & Tricks
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+
+    This section contains small little tips that can help you throughout your
+battles in Metal Marines.
+
+    - If you use Metal Marines to target areas with Air Radars and AA Missles,
+you can help increase the chances of getting your missiles into their base.
+
+    - Defend important buildings with Gun Pods and Metal Marines.  Also, locate
+important buildings on the left side of your base.
+
+    - Start over on a level if you aren't doing that great on the level.
+
+    - Target at different heights (up and dowm) on the enemy's base if you can
+not get past a certain height due to AA Missiles.
+
+    - Attack whenever possible.  The only way you'll ever win this game is if
+you attack the enemy constantly.
+
+
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+                              Section 5: Missions
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+
+    This section briefly covers the missions in the game.  This section provides
+the name of the mission, general location of the enemy's Base, and a brief
+strategy for each of the 20 missions in this game.
+
+          Mission 1: Gaea
+    As the first mission in the game, this mission is very easy.  You start out
+with a large developed base.  Since this is the first mission of the game, use
+this mission to get used to the game.
+The opponent's Base is located in the center of the lower area of his
+island.
+    Strategy: There isn't much advanced strategy involved in this attack.  Send
+over missiles to eliminate a few AA Missiles around the shore, then send
+missiles and Metal Marines over towards the Base to eliminate buildings, locate
+the Base, and then find the Base.  If you're having trouble defending against
+the enemy's attacks, upgrage your various AA Missiles and build Metal Marines
+around them to defend against opposing Metal Marines.
+
+          Mission 2: Cougar
+    This mission requires you to develope your base more then the first, as
+everything is very spread out and vulnerable to the enemy's constant raids with
+Metal Marines.
+    The opponent has two bases in this mission.  One is near the left side of
+the center elevated area on their island, and the other is back in the upper
+right corner of the island.
+    Strategy: As soon as you start, shoot your missiles over to the closer Base
+the enemy has.  Then, prepare your island for raids.  Scatter Metal Marines by
+the clusters of buildings.  As your missiles return, launch them over to the
+closer Base until it is destroyed.  Once the first Base is destroyed, your
+island should probably be fairly defended.  Now you can build a Supply
+Headquarters in a safe place on your island to provide increased income.  You
+also should have four Missiles, two of which should be upgraded.  Now, shoot
+missiles over to the enemy's other base.  Carefully "crawl" closer to it with
+your missiles, eliminating Gun Pods and AA Missiles.  Use upgraded Metal Marines
+to raid the enemy, but be sure not to leave a weak point in your base.  You
+should be able to destroy the enemy's remaining Base and complete this mission.
+
+          Mission 3: Eagle
+    This mission is at about the same difficulty as its predecessor.  Your base
+is fairly well defended, but lacks in Metal Marines.  You start with two ugraded
+missiles, which gives you a fast start.
+    The enemy has one Base.  The Base is at the very center of the hill on the
+right side of his base.
+    Strategy: As soon as the mission starts, launch your missiles to the shore
+of the enemy's base to begin eliminating AA Missiles.  While you wait for the
+missiles to rebuild, build Metal Marines around your base to defend against an
+enemy invasion.  Also, build two more Missiles.  Once your Missiles rebuild,
+beginning edging into their base from the shore.  Once you edge your way towards
+the hill, be sure to attack the very center of the hill.  Drop some Metal
+Marines down to the Base so they can kill it.
+
+          Mission 4: Bison
+    In this mission, you are attacking an island that has been built up.
+Although the enemy will not launch as many attacks on you as he may have in
+other missions, you will have to launch a lot of attacks on him.
+    In this mission, the enemy has four bases.  One is in the middle of a hill
+in the upper right corner of the base.  The other three bases are in the lower
+right hand of the corner.  One of those three is inside the roads.  The other
+two are outside of the roads.
+    Strategy: As soon as the mission starts, you'll want to launch your missiles
+to either the lower or upper part of the island.  Immediately build AA Missiles
+on the right coast of the island.  Also, build two more Missiles.  Through this
+time, you should be launching missiles, edging your way towards the four bases.
+Once all this is done, you'll want to build a Supply Headquarters and an Air
+Radar.  You'll also want to build an Energy Plant.  By the time the Energy Plant
+is built, you should have edged your way to the bases, and you might have
+already taken out some with Metal Marines.  Once the enemy's defenses are
+lowered, you'll be able to bring in Metal Marines and take out the four bases.
+
+          Mission 5: Grampus
+    You start this mission on snowy terrain.  Similar to prior missions, you
+have two upgraded missiles at the beginning.  But, also similar to other
+scenarios, your base is vulnerable to attacks.
+    In this scenario, the enemy has two bases.  One is on the lower part of the
+upper island, to the left.  The other base is in the middle horizontally on the
+right side of the island.
+    Strategy: At the beginning of this scenario, launch your missiles to the
+lower island.  By knocking out the buildings here, you can slow the enemy's rate
+of attacking.  Build an Energy Plant and a Supply Headquarters.  As you do this,
+build AA Missiles on the right side of your base.  This area looks beefed up,
+but it is very vulnerable to missile attacks.  You'll also want to put some
+Metal Mariners near the back of your base, where most of your important
+buildings should be.  While these defenses are built up, you'll want to work on
+eliminating the enemy's front line of defenses.  Do this by attacking directly
+by the shore on the upper island.  Slowly edge your way in.  As you do this,
+build two more Missiles.  As you edge your way in, you'll destroy various
+clusters.  This will slow down their process of attacking.  Occasionally, the
+enemy will launch attacks on you.  These attacks will be aimed near the back of
+your island primarily.  Make sure that area is defended well, so you don't lose
+any of your valuable missiles.  With a well-defended island, you should be able
+to root out the Bases of the enemy.
+
+          Mission 6: Iceberg
+    This scenario takes place in a rocky snow world.  You do start with two
+missiles, but, unlike prior scenarios, they aren't upgraded.  You also have
+defenses, but they aren't nearly enough.
+    In this scenario, the enemy has two Bases.  One of the bases is in the
+middle of the hill in the middle of their island.  The other is at the base of
+the hill to the right of the first Base.
+    Strategy:  Launch the missiles to the base of the hill to knock out some AA
+Missiles at the beginning of the scenario.  Immediately construct several AA
+Missiles on the right side of your base and an AA Radar.  In addition, build a
+Supply Headquarters.  After the defenses are done, you'll want to add a few
+scattered Gun Pods and Metal Marines.  You'll also want to build two more
+missiles.  As you are doing this, you'll want to be aiming your missiles further
+and further into the hill.  You should manage to avoid the AA Missiles coming at
+you.  Send your missiles further and further to the right of their hill, and
+you'll be able to attack the bases with Marines.  This scenario is easy as long
+as you keep your island defended with AA Missiles.
+
+          Mission 7: Eurostorm I
+    This is the first mission in which you actually get to build a base from
+scratch.  The scenario features a rocky terrain with few places to build, so you
+will probably want to cluster all your bases in one area.
+    The enemy has four bases in this scenario.  Each is on the big island, one
+each between the center point and each of the corners of the island.
+    Strategy:  Initially, build AA Missiles around your bases and build a Supply
+Headquarters or two as well as an AA Radar, some Gun Pods, and several Metal
+Marines.  Once you feel defended, build a Missile.  Use it to knock out the
+enemy's supplies on the small island.  You'll be able to slow the enemy greatly
+by destroying their sources of income.  Another group of buildings is in the
+upper left corner of the main island.  You'll want to blow these buildings out
+as well.  Once that is done, proceed to targeting the main island.  Crawl in, as
+you have done on all of the other missions.  Be sure to construct three more
+Missiles and an Energy Plant.  Since you will have a lot of Metal Marines, you
+might want to send several over to the enemy after their income is slowed.  This
+is because the enemy will not be assaulting you as much.  You will also be able
+to effectively kill the enemy's Metal Marines they have lying around in their
+base.  You will have crippled the enemy and now you will be able to meticulously
+eliminate each of the Bases.
+
+          Mission 8: Eurostorm II
+    In this mission, you build your base on a C-shaped island.  You have a few
+measly defenses at the beginning of the game, but nothing too exceptional.
+You'll want to choose an area to cluster your buildings and work on defending
+that area.
+    The enemy has three bases in this scenario.  One is near the bottom right
+corner of the island.  Another is near the large single square up and down
+peninsula.  The final Base lies to the right of that base.
+    Strategy: This scenario gets tough.  At the beginning, you'll want to
+immediately place several AA Missiles around your buildings on the island.
+You'll also want to place several Supply Headquarters.  Once you get that done,
+place some Metal Marines around to defend against a land invasion.  Place a few
+Gun Pods, as well.  As you do that, go ahead and place four Missiles and an AA
+Radar.  Once the Missiles are built, launch them at the enemy.  You'll want to
+carefully target away from the small peninsula until you upgrade your Missiles.
+Send a group of Metal Marines over to the small peninsula and pound the AA
+Missiles.  Now you won't have as much trouble getting in their base.  As long as
+you have several Supply Headquarters constructed, you can keep using the funds
+to build buildings in your base that will help you defend against enemy strikes.
+By sending upgraded Metal Marines over to their base as well as missiles, you'll
+eventually manage to destroy the enemy.
+
+          Mission 9: Eurostorm III
+    For this mission, you will build your base on four large islands, and one
+dinky one too.  However, the only truly good island to build is the one on the
+lower right.  The others have too difficult of terrain.
+    The enemy has three bases in this mission.  One is on the island in the
+upper left corner of their area.  Another base is located in the top area of the
+large island.  The final base is in the lower area of the large island on the
+right side.
+    Strategy: This scenario is rather difficult.  Begin by building several
+Supply Headquarters.  Be sure to scatter your important buildings over all the
+islands.  Be sure you scatter your bases as well.  The enemy will start throwing
+missiles at you chaotically.  You'll probably lose your buildings in the
+process.
+Don't try to rebuild them as the enemy is attacking.  After the enemy's string
+of attacks are done, start using money you've saved to build AA Missiles all
+over the right side of lower right island.  Clear trees if you need to.  Build
+some AA Radars, scattered Metal Marines and Gun Pods, and be sure to place them
+all on the lower right island.  Clear trees on the island if necessary.  Be sure
+to build up plently of AA Missiles, you'll need them.  If you've built up
+properly, you should survive the next attack.  After the next attack, upgrade
+buildings and build Missiles for attacks.  Attacking the enemy isn't terribly
+difficult in this scenario.  You should be able to take out their base without
+much trouble once you have a well defended area.
+
+          Mission 10: Artemis
+    In this mission, you construct your base on a large island with a lot of
+hills.  There's a small island too, but it's not big enough to construct many
+buildings on it.
+In this scenario, the enemy has four bases.  One is in the upper left
+corner.
+It is right behind the hills that are in the same corner.  The next base is in
+the middle of the hill near the center right of the island.  Another base is in
+the lower left corner of the base, on the right side of the flat area through
+the hilly terrain.  The last base lies to the left of the previous listed base.
+It is at the base of the hill.
+    Strategy: This scenario sort of flows like the prior scenario.  Begin simply
+constructing Supply Headquarters.  Scatter them.  The enemy will attack and
+obliviate most of your buildings, but you'll have cash.  After the attack, place
+down several defenses defending any of your remaining bases.  Use plenty of AA
+Missiles and a few AA Radars.  Once your done building Metal Marines and Gun
+Pods, go on and build up Supply Headquarters you've lost.  You should manage to
+survive the next set of attacks.  You'll want to build Missiles and upgrade
+them,
+as well as upgrade your Metal Marines.  This way, you can raid your opponent's
+base and finish the mission after some trouble.  Just keep your base protected
+and you'll do fine.
+
+          Mission 11: Poseidon
+    In this scenario, your base is a very hilly area with a river running out of
+the island you're on.  The terrain in this scenario will be very harsh to you in
+the way of places to build.
+    For this scenario, the enemy has three bases.  One is in the dead middle of
+the island, just in that little area where the hills curve in then curve out.
+His other bases are slightly above and to the right of that one, and slightly
+below and to the right of the prior one of the two mentioned.
+    Strategy: This scenario is relaxing compared to the prior ones.  Build a few
+Supply Headquarters at the beginning, and then following with defenses of a
+couple AA Missiles and an AA Radar or two.  Your enemy's attacks are much weaker
+then they have been lately.  Be sure to add in Metal Marines and Gun Pods to
+defend against an opposing raid of Metal Marines.  You'll want to make sure you
+have yourself mostly defended.  Once you do, you can start launching attacks on
+them.  You won't have much trouble if you managed to conquer the prior
+scenarios.
+
+          Mission 12: Kingdom
+    The terrain of the large island this scenario takes place on looks similar
+to that of the Poseidon mission.  However, the enemy has similar terrain, making
+their buildings scattered more, which makes it easier for you to attack them.
+    In this scenario, the enemy has four bases.  One is in the middle of their
+island, one just up and to the left of that one, one in the upper right corner,
+and one in the lower right corner.
+    Strategy: You'll want to quickly build defenses for your bases after
+building some Supply Headquarters.  Build several AA Missiles around your bases
+and you should be able to counter most of the enemy air strikes.  You might take
+some damage, but after it, build up Metal Marines, AA Missiles, AA Radars, and
+Gun Pods.  Use them as you have before to defend your base.  As I said earlier,
+the enemy's hilly terrain makes their buildings more spread out, so that makes
+it easier for you to launch missiles at them.  You should be able to knock out
+all the opposing bases.
+
+          Mission 13: Sand Storm
+    Your base looks nice and pretty in this scenario.  Your base is a round
+island with hills around the outside and hills on the inside.  There's plenty of
+places to build, but there will be constant enemy attacks pummeling you.
+    In this scenario, the enemy has three bases.  They all are a little right of
+the center column of the island.  One base is at the top, another in the middle,
+and the last at the bottom.
+    Strategy: Begin by building several Supply Headquarters.  The enemy will
+attack you and might hit one, but probably not.  Now begin construction of air
+defenses.  You won't get far until more missiles come whizzing through the air,
+but it will give the oopponent a target away from your Supply Headquarters and
+bases if you continue building air defenses.  As you build air defenses,
+eventually you will want to build missiles.  Send the missiles over to burn
+their base.  It will slow their attacks down.  Though you might keep getting
+bombed, you can send over groups of missiles that will hit their Missiles and
+Energy Plants.  That's a big win for you.  Once the attacks stop surging, you
+can easily take out their bases.
+
+          Mission 14: Zihard
+    In this scenario, your base is moderately hilly, but not to the point where
+building becomes harder.  The left side of your base is particularly good for
+building important buildings.
+    The enemy has but one base in this mission.  His base is in the upper left
+corner of his island.
+    Strategy: Initially, build a couple Supply Headquarters.  Following, build
+several Gun Pods and Metal Marines by your buildings to defend against an enemy
+raid of Metal Marines.  Once you get defenses up, go ahead and launch missiles
+over to the enemy's base.  Send over some Metal Marines too.  This scenario
+shouldn't be too difficult as long as you aren't blasted out of the world by the
+Metal Marine attacks at the beginning of the game.
+
+          Mission 15: Kiwi
+    Your base in this scenario is a rather hilly island.  There's enough space
+to build stuff in though, so that shouldn' be much of a worry.  However, you'll
+get whacked down by missiles and Metal Marines if you aren't careful.
+    The enemy has one base in this scenario.  It is in the middle of their
+island.
+    Strategy: You'll want to start by building many Gun Pods and Metal Marines
+for ground combat.  You also want to throw in construction of a Supply
+Headqarters or two, but don't build a lot yet, as you need lots of Gun Pods and
+Metal Marines.  After the first attack on you ceases, it's your turn.  Take
+those Metal Marines you have (whichever ones are surviving) and drop them into
+the center left side of their base to start taking out enemy missiles.  This
+makes it easier for you.  Now you can build up some more Supply Headquarters.
+You can also launch an attack on their base, which isn't very defended, so it
+shouldn't be very hard to take it out.
+
+          Mission 16: Snarl Shark
+    This is a tough scenario, as your moderately hilly island gets smashed by
+upgraded Metal Mariners at the very beginning.
+    Your enemy has three bases.  Imagine lines from the peninsulas to the right,
+then look in between each set of lines.  There are three bases in these
+locations near the far right of the enemy's base.
+    Strategy: Build two Supply Headquarters in the beginning, and as many Gun
+Pods as you can.  You probably will only manage to weaken the first wave of
+Metal Marines, but that's fine.  Keep reconstructing Gun Pods, and just hope the
+enemy doesn't find your base.  Once youve blasted several Metal Marines, you can
+send Missiles over to the enemy base.  You'll want to build up some AA defense
+too.  You should be able to wipe out enough of the enemy so that you won't have
+to keep rebuilding defenses as they are taken down.  You should be able to
+manage to take out the enemy bases.  The beginning is the hardest part of the
+scenario.
+
+          Mission 17: Marlion
+    The island you have in this scenario is circular and has an outer ring of
+hills and a middle ring of hills, sort of like a donut.  Fortunately, this
+scenario is easier then Snarl Shark.
+    The enemy has four bases in this scenario.  Three are in the middle of the
+far right island, and the other is at the top of it.
+    Strategy: Begin by building a few Supply Headquarters and proceed with an
+excess of AA Missiles.  With a good AA defense, you wont have terribly much to
+worry about.  Once your defenses are up, build two Energy Plants and four
+missiles and rain fire on the enemy.  You'll be able to take out the enemy, so
+as long as you keep your base defended.
+
+          Mission 18: Chinglong
+    Your base in this scenario is a bay coming up into an island.  Your island
+is a crescent that has a few hills, and plenty of building space.  This scenario
+is hard, but it isn't too hard.
+    The enemy has three bases in this scenario.  They are all on the right side
+of his base.  One's at the top, one's at the bottom, and the last is in the
+middle.
+    Strategy: Open with a few Supply Headquarters and a good amount of AA
+Missiles, Metal Marines, and Gun Pods.  You'll want to defend yourself against
+missiles and invading Metal Marines in this scenario.  Once your defenses are
+set up, start building Missiles.  Launch missiles over to the opponent's base.
+It's not terribly difficult to invade the enemy's base.  Just be sure at home
+that you're upgrading your defenses.
+
+          Mission 19: Sakura
+    The base you get in this scenario has a large hilly area in the middle, but
+other then that it's pretty much flat plains.  The map isn't too hard, but it's
+still quite challenging.
+    Your opponent has one base in this scenario, and that's located in the
+middle on the right of his island.
+    Strategy: Build several AA Missiles at the beginning.  You'll lose some in
+the enemy's attack.  Be working on Supply Headquarters a lot.  Keep rebuilding
+AA Missiles.  Once you have three or four Supply Headquarters built, lay down
+lots of defenses.  Place some missiles and launch them over.  You'll also want
+to build Metal Marines and Energy Plants.  Send Metal Marines over to invade the
+enemy's base.  This scenario isn't too much trouble.  You should be able to
+tackle the enemy after a little bit of time.
+
+          Mission 20: Sunrise
+    As your final mission, you have an island that has a few hills, but not
+anything that makes it tough to build there.  It may look easy, until the big
+band happens at the beginning.
+    Your enemy has three bases in this scenario.  They are all on the right side
+of the base.  One is at the top, one is located at the bottom, and the other
+lies in the middle.
+    Strategy: Whether you win or lose lies in the first attack of the game.
+Build a few Supply Headquarters before the I.C.B.M. missile comes crashing down.
+If the missile gets you, just start over.  Build plenty of AA Missiles and
+defend them with Metal Marines.  Build some more Supply Headquarters then
+several Energy Plants.  A lot.  Now you can either pummel their bases with tons
+of missiles. You can send over the Metal Marines you have constructed and start
+blasting the enemy away.  If you act quickly, the enemy shouldn't get another
+opportunity to launch their I.C.B.M. again.  Use pummels of missile attacks in
+coordination witht your Metal Marines you have constructed to win this scenario,
+and the game.  Good job!
+
+
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+                          Section 6: Other Information
+-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~-_-~
+
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+                             A: Contact Information
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+    My e-mail address is SeanKelson@aol.com. I am unavailable to provide help on
+game-related issues due to the amount of time that has passed since the writing
+of this walkthrough. However, I would appreciate hearing from you with comments
+and requests.
+
+	If you are interested in including this walkthrough on your site, please
+read the next section.
+
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+                                  B: Licensing
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+As of April 27, 2009, I have updated all of my walkthroughs to be licensed
+under a Creative Commons Attribution 3.0 Unported License
+(http://creativecommons.org/licenses/by/3.0/). This means you are free to
+redistribute or build upon my work, even for commercial purposes. The only
+thing I ask in return is that you give me credit for the content you use.
+
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+                                    C: Credits
+                           -*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+    Thanks to Nintendo for the SNES console and production of Metal Marines.
+    Thanks to Namco for the creation of Metal Marines.
+    Thanks to GameFAQs for being a great site.
+
